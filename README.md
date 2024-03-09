@@ -1,5 +1,5 @@
 <h1>Single Page Docs App</h1>
-<h3>Overview</h3>
+<h2>Overview</h2>
 <p>This Single Page Docs App is built using React, Tailwind CSS, and Framer Motion to create a user-friendly interface for managing documents. The app incorporates drag-and-drop functionality for an intuitive user experience.
 </p>
 <h3>Features</h3>
@@ -16,3 +16,5 @@ Framer Motion is integrated to introduce smooth and visually appealing drag-and-
 
 Draggable Documents: Users can grab and move document cards within the interface.
 Animated Transitions: Framer Motion is utilized to create animated transitions during drag-and-drop actions, enhancing the overall user experience.
+<h2>Contribution</h2>
+Feel free to contribute to the project by submitting issues or creating pull requests. Follow the established coding conventions and guidelines outlined in the project.
